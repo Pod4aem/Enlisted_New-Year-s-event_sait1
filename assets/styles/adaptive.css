@@ -1,0 +1,351 @@
+@media (min-width: 1200px){
+    
+    .Logo{
+    width:140px ;
+    height: 130px;
+    }
+
+    .logo{
+        padding-right: 150px;
+    }
+    
+    .nav {
+      display: flex;
+      flex-direction: row; 
+      margin: 0 auto;
+    }
+  
+    .nav-link a {
+      width: 390px;
+      margin: 0 auto;
+      font-size: 40px;
+      padding-right: 150px;
+    }
+    .account-img{
+        width:40px ;
+        height: 40px;
+    }
+
+    .zagalovok h1{
+      font-size: 40px;
+    }
+
+    .PLakat1{
+      width:750px ;
+      height: 465px;
+    }
+
+    .plakat{
+      padding-top: 21px;
+  }
+
+  .zag1 {
+      padding-top: 21px;
+   }
+
+    .zag1 h3{
+      font-size: 34px;
+    }
+
+    .p1{
+      padding-top: 21px;
+    
+  }
+
+    .P1-size{
+    font-size: 29px;
+    line-height: 34px;
+    }
+
+    .p2{
+    padding-top: 21px;
+  }
+
+  .P2-size{
+    font-size: 29px;
+    line-height: 34px;
+    }
+
+    .plakat2{
+    padding-top: 21px;
+  }
+
+  .PLakat2{
+    width:750px ;
+    height: 425px;
+  }
+
+  .zag2 {
+    padding-top: 21px;
+ }
+
+ .zag2 h4 {
+  font-size: 29px;
+ }
+
+ .p3{
+  padding-top: 21px;
+}
+
+.P3-size{
+  font-size: 29px;
+  line-height: 34px;
+  }
+
+  .p4{
+    padding-top: 21px;
+  }
+
+  .zaggg{
+    font-size: 24px;
+    line-height: 34px;
+}
+
+.zag3 {
+  padding-top: 21px;
+}
+
+.zag3 h1 {
+font-size: 27px;
+}
+
+.PLakat3{
+  width:750px ;
+  height: 158px;
+}
+
+.plakat3{
+  padding-top: 21px;
+}
+
+.zag4 {
+  padding-top: 21px;
+  padding-right: 281px;
+}
+
+.zag4 h3 {
+font-size: 27px;
+}
+
+.p5{
+  padding-top: 21px;
+  padding-right: 92px;
+}
+
+.P5-size{
+  font-size: 29px;
+  line-height: 34px;
+  }
+
+.p6{
+  padding-top: 21px;
+  padding-right: 179px;
+  }
+  
+.P6-size{
+  font-size: 29px;
+  line-height: 34px;
+  }
+
+  .animate-reduce{
+    width: 500px;
+    height: 500px;
+  }
+  
+  .plakat4{
+    padding-top: 21px;
+  }
+
+  .snow{
+    padding-top: 21px;    
+}
+.sn1{
+    width: 160px;
+    height: 120px;
+    padding-right: 30px;
+}
+
+.zag5 h3{
+  font-size: 25px;
+}
+
+.zag5{
+  padding-top: 21px;
+  padding-right: 279px;
+}
+
+.PLakat5{
+  width: 750px;
+  height: 450px;
+}
+
+.plakat5{
+  padding-top: 21px;
+}
+
+.zag6 h3{
+  font-size: 25px;
+}
+
+.zag6{
+  padding-top: 21px;
+  padding-right: 128px;
+}
+
+.PLakat6{
+  width: 750px;
+  height: 450px;
+}
+
+.plakat6{
+  padding-top: 21px;
+}
+
+.p7{
+  padding-top: 21px;
+  padding-right: 116px;
+  }
+  
+.P7-size{
+  font-size: 29px;
+  line-height: 34px;
+  }
+
+  .PLakat7{
+    width: 750px;
+    height: 400px;
+}
+
+.plakat7{
+    padding-top: 21px;
+}
+
+.p8{
+  padding-top: 21px;
+  padding-right: 75px;
+  }
+  
+.P8-size{
+  font-size: 29px;
+  line-height: 34px;
+  }
+
+.PLakat8{
+  width: 750px;
+  height: 410px;
+}
+
+.plakat8{
+  padding-top: 21px;
+}
+
+.p9{
+  padding-top: 21px;
+  padding-right: 30px;
+  }
+  
+.P9-size{
+  font-size: 29px;
+  line-height: 34px;
+  }
+
+  .PLakat9{
+    width: 750px;
+    height: 450px;
+}
+
+.plakat9{
+    padding-top: 21px;
+}
+
+.p10{
+  padding-top: 21px;
+  padding-right: 40px;
+  }
+  
+.P10-size{
+  font-size: 29px;
+  line-height: 34px;
+  }
+
+.PLakat10{
+  width: 750px;
+  height: 450px;
+}
+
+.plakat10{
+  padding-top: 21px;
+}  
+
+.line{
+  width: 700px;
+}
+
+.zag7 h3{
+  font-size: 30px;
+}
+
+.zag7{
+   padding-top: 21px;
+}
+
+.fn{
+  width: 50px;
+  height: 50px;
+}
+
+.foot-nav{
+  padding-top: 10px;   
+}
+
+.login-container {
+  width: 362px;
+  height: 347px;
+  padding: 40px;
+}
+
+.login-container h2 {
+  margin-bottom: 35px;
+  font-size: 50px;
+}
+
+.login-form label {
+  margin-bottom: 15px;
+  font-size: 30px;
+}
+
+.login-form input {
+  margin-bottom: 15px;
+  padding: 15px;
+}
+
+.login-form .button {
+  padding: 15px 15px;
+  font-size: 30px;
+}
+
+.GOOgl{
+  width: 32px;
+  height: 34px;
+}
+
+.googl{
+  padding-top: 25px ;
+}
+
+.googl p{
+  padding-top: 10px;
+  padding-left: 6px;
+  font-size: 20px;
+}
+
+.STeam{
+  width: 100px;
+  height: 30px;
+}
+
+.steam{
+  padding-top: 25px ;
+}
+  }
+  
